@@ -1,0 +1,86 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#abouttab{
+background: darkred url("../images/fabric.png");
+width:100%;
+    color:white;
+}
+
+html, body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px
+}
+
+.footer{
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    background: darkred url("../images/fabric.png");
+    color: white;
+    font-size: 120%;
+    padding:25px;
+}
+
+.margin{
+margin: 15px;
+}
+
+#spottings {
+    background: orange url("../images/batthern.png") repeat;
+    padding-bottom:20px;
+    color: white;
+}
+
+#main, #maparea{
+    width:100%;
+}
+
+#map-canvas{
+height: 80%;
+width:60%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#maparea{
+    height: auto;
+    padding: 25px;
+    width: 100%;
+}
+
+#mainpage{
+height: 40%;
+}
+
+#Welcome{
+font-size: 50px;
+}
+
+.container.jumbotron > img {
+    width: 55%;
+}
+
+.postbox{
+    float: left;
+    padding:15px;
+}
+
+#footer{
+    display: none !important;
+}
+
+.text-muted > a {
+    color: white;
+}
+
+.col-sm-8 > a {
+    color: orange;
+}
+
+#Waffle{
+    width: 75%;
+}
